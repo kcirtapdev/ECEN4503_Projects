@@ -1,0 +1,803 @@
+
+
+Current Cycle: 1
+The correct door: 3
+We will choose: 1
+It isn't 2
+Now we switch:
+We chose door 3 and it was correct.
+
+
+Current Cycle: 2
+The correct door: 2
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 3
+The correct door: 3
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was correct.
+
+
+Current Cycle: 4
+The correct door: 3
+We will choose: 1
+It isn't 2
+Now we switch:
+We chose door 3 and it was correct.
+
+
+Current Cycle: 5
+The correct door: 3
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was correct.
+
+
+Current Cycle: 6
+The correct door: 3
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was correct.
+
+
+Current Cycle: 7
+The correct door: 1
+We will choose: 3
+It isn't 2
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 8
+The correct door: 2
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was incorrect.
+
+
+Current Cycle: 9
+The correct door: 2
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 10
+The correct door: 3
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was incorrect.
+
+
+Current Cycle: 11
+The correct door: 3
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was correct.
+
+
+Current Cycle: 12
+The correct door: 2
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 13
+The correct door: 2
+We will choose: 1
+It isn't 3
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 14
+The correct door: 2
+We will choose: 1
+It isn't 3
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 15
+The correct door: 3
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was correct.
+
+
+Current Cycle: 16
+The correct door: 2
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 17
+The correct door: 3
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was correct.
+
+
+Current Cycle: 18
+The correct door: 2
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was incorrect.
+
+
+Current Cycle: 19
+The correct door: 2
+We will choose: 1
+It isn't 3
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 20
+The correct door: 3
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was incorrect.
+
+
+Current Cycle: 21
+The correct door: 2
+We will choose: 1
+It isn't 3
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 22
+The correct door: 1
+We will choose: 3
+It isn't 2
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 23
+The correct door: 1
+We will choose: 2
+It isn't 3
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 24
+The correct door: 1
+We will choose: 1
+It isn't 2
+Now we switch:
+We chose door 3 and it was incorrect.
+
+
+Current Cycle: 25
+The correct door: 1
+We will choose: 3
+It isn't 2
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 26
+The correct door: 3
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was incorrect.
+
+
+Current Cycle: 27
+The correct door: 2
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 28
+The correct door: 1
+We will choose: 2
+It isn't 3
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 29
+The correct door: 3
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was incorrect.
+
+
+Current Cycle: 30
+The correct door: 3
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was correct.
+
+
+Current Cycle: 31
+The correct door: 1
+We will choose: 1
+It isn't 2
+Now we switch:
+We chose door 3 and it was incorrect.
+
+
+Current Cycle: 32
+The correct door: 2
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 33
+The correct door: 1
+We will choose: 2
+It isn't 3
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 34
+The correct door: 1
+We will choose: 1
+It isn't 2
+Now we switch:
+We chose door 3 and it was incorrect.
+
+
+Current Cycle: 35
+The correct door: 1
+We will choose: 2
+It isn't 3
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 36
+The correct door: 1
+We will choose: 1
+It isn't 2
+Now we switch:
+We chose door 3 and it was incorrect.
+
+
+Current Cycle: 37
+The correct door: 1
+We will choose: 2
+It isn't 3
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 38
+The correct door: 1
+We will choose: 2
+It isn't 3
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 39
+The correct door: 3
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was incorrect.
+
+
+Current Cycle: 40
+The correct door: 3
+We will choose: 1
+It isn't 2
+Now we switch:
+We chose door 3 and it was correct.
+
+
+Current Cycle: 41
+The correct door: 2
+We will choose: 1
+It isn't 3
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 42
+The correct door: 2
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was incorrect.
+
+
+Current Cycle: 43
+The correct door: 1
+We will choose: 2
+It isn't 3
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 44
+The correct door: 2
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 45
+The correct door: 3
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was incorrect.
+
+
+Current Cycle: 46
+The correct door: 1
+We will choose: 3
+It isn't 2
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 47
+The correct door: 2
+We will choose: 1
+It isn't 3
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 48
+The correct door: 3
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was correct.
+
+
+Current Cycle: 49
+The correct door: 2
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was incorrect.
+
+
+Current Cycle: 50
+The correct door: 2
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was incorrect.
+
+
+Current Cycle: 51
+The correct door: 3
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was correct.
+
+
+Current Cycle: 52
+The correct door: 1
+We will choose: 1
+It isn't 2
+Now we switch:
+We chose door 3 and it was incorrect.
+
+
+Current Cycle: 53
+The correct door: 3
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was incorrect.
+
+
+Current Cycle: 54
+The correct door: 2
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 55
+The correct door: 1
+We will choose: 2
+It isn't 3
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 56
+The correct door: 2
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was incorrect.
+
+
+Current Cycle: 57
+The correct door: 3
+We will choose: 1
+It isn't 2
+Now we switch:
+We chose door 3 and it was correct.
+
+
+Current Cycle: 58
+The correct door: 2
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 59
+The correct door: 2
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 60
+The correct door: 2
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 61
+The correct door: 2
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 62
+The correct door: 1
+We will choose: 2
+It isn't 3
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 63
+The correct door: 1
+We will choose: 3
+It isn't 2
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 64
+The correct door: 1
+We will choose: 2
+It isn't 3
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 65
+The correct door: 3
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was correct.
+
+
+Current Cycle: 66
+The correct door: 1
+We will choose: 2
+It isn't 3
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 67
+The correct door: 3
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was incorrect.
+
+
+Current Cycle: 68
+The correct door: 2
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 69
+The correct door: 1
+We will choose: 3
+It isn't 2
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 70
+The correct door: 2
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 71
+The correct door: 1
+We will choose: 1
+It isn't 2
+Now we switch:
+We chose door 3 and it was incorrect.
+
+
+Current Cycle: 72
+The correct door: 1
+We will choose: 2
+It isn't 3
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 73
+The correct door: 3
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was incorrect.
+
+
+Current Cycle: 74
+The correct door: 3
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was correct.
+
+
+Current Cycle: 75
+The correct door: 3
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was incorrect.
+
+
+Current Cycle: 76
+The correct door: 1
+We will choose: 3
+It isn't 2
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 77
+The correct door: 1
+We will choose: 3
+It isn't 2
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 78
+The correct door: 2
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 79
+The correct door: 2
+We will choose: 1
+It isn't 3
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 80
+The correct door: 1
+We will choose: 2
+It isn't 3
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 81
+The correct door: 2
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was incorrect.
+
+
+Current Cycle: 82
+The correct door: 1
+We will choose: 2
+It isn't 3
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 83
+The correct door: 3
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was incorrect.
+
+
+Current Cycle: 84
+The correct door: 1
+We will choose: 3
+It isn't 2
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 85
+The correct door: 1
+We will choose: 3
+It isn't 2
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 86
+The correct door: 1
+We will choose: 1
+It isn't 2
+Now we switch:
+We chose door 3 and it was incorrect.
+
+
+Current Cycle: 87
+The correct door: 2
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was incorrect.
+
+
+Current Cycle: 88
+The correct door: 2
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 89
+The correct door: 1
+We will choose: 3
+It isn't 2
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 90
+The correct door: 2
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was incorrect.
+
+
+Current Cycle: 91
+The correct door: 3
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was correct.
+
+
+Current Cycle: 92
+The correct door: 2
+We will choose: 3
+It isn't 1
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 93
+The correct door: 1
+We will choose: 1
+It isn't 2
+Now we switch:
+We chose door 3 and it was incorrect.
+
+
+Current Cycle: 94
+The correct door: 2
+We will choose: 1
+It isn't 3
+Now we switch:
+We chose door 2 and it was correct.
+
+
+Current Cycle: 95
+The correct door: 3
+We will choose: 1
+It isn't 2
+Now we switch:
+We chose door 3 and it was correct.
+
+
+Current Cycle: 96
+The correct door: 3
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was correct.
+
+
+Current Cycle: 97
+The correct door: 1
+We will choose: 2
+It isn't 3
+Now we switch:
+We chose door 1 and it was correct.
+
+
+Current Cycle: 98
+The correct door: 3
+We will choose: 1
+It isn't 2
+Now we switch:
+We chose door 3 and it was correct.
+
+
+Current Cycle: 99
+The correct door: 3
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was correct.
+
+
+Current Cycle: 100
+The correct door: 2
+We will choose: 2
+It isn't 1
+Now we switch:
+We chose door 3 and it was incorrect.
+
+
+The frequency correct is 71.0%
